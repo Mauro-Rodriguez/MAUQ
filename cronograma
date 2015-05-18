@@ -1,0 +1,6 @@
+* Mostrar carrucel de muebles -> OK
+* Separar el head del body para mostrar los diferentes carruceles -> OK
+* Mostrar prototipo de carrucel de los gavetes -> OK
+* Código en el controlador home que redireccione la página a los carruceles -> PENDIENTE
+* Crear urls para enviar a los otros carruceles -> PENDIENTE
+

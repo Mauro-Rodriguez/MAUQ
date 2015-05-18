@@ -1,0 +1,6 @@
+
+
+     RewriteEngine on
+     
+     RewriteCond $1 !^(index\.php|robots\.txt|sitemap\.xml|assets)
+     RewriteRule ^(.*)$ index.php/$1
